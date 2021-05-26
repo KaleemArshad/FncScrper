@@ -1,0 +1,26 @@
+{
+  "name": "fnacscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^1.1.2",
+    "cheerio": "^1.0.0-rc.9",
+    "exceljs": "^4.2.1",
+    "free-google-translate-with-puppeteer": "^1.0.0",
+    "proxy-chain": "^1.0.2",
+    "puppeteer": "^9.1.1",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "puppeteer-page-proxy": "^1.2.8",
+    "puppeteer-proxy": "^2.1.1",
+    "user-agents": "^1.0.659",
+    "xlsx": "^0.17.0"
+  }
+}
